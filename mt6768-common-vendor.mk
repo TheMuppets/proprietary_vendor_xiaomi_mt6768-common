@@ -508,7 +508,6 @@ PRODUCT_PACKAGES += \
     libudf \
     liburee_meta_drmkeyinstall \
     libvcodecdrv_header_stub \
-    libwifi-hal-mtk \
     libwifitest \
     libwvhidl \
     libwvkeybox \
